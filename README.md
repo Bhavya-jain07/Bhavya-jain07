@@ -31,7 +31,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,react,arduino,raspberry pi" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,dribble," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,dribbble," />
 </p>
 
 <hr>
