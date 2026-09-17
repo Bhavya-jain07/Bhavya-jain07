@@ -1,7 +1,4 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{Bhavya-jain07}/count.svg" alt="Visitor's Count" />
-</div>
+
 <br>
 <img src="https://github.com/Bhavya-jain07/Bhavya-jain07/blob/main/coder.jpeg" alt="Banner of a cool developer sitting in front of a desk"  style = "width:550px; height:300px" >
 <h1 align="center">
